@@ -553,6 +553,9 @@ footer {
     transition: color 0.2s;
 }
 
+.city-feature{
+    width: 20px;
+}
 
 
 
@@ -566,13 +569,6 @@ footer p {
     text-align: center;
     margin-top: 20px;
 }
-
-
-
-
-/* ----------------------------------------------- */
-/* Animations */
-/* ----------------------------------------------- */
 
 .js--wp-1,
 .js--wp-2,

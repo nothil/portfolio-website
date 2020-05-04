@@ -22,7 +22,7 @@
     clear:both;
 }
 
-/*  GRID COLUMN SETUP   ==================================================================== */
+
 
 .col {
 	display: block;
@@ -33,7 +33,7 @@
 .col:first-child { margin-left: 0; } /* all browsers except IE6 and lower */
 
 
-/*  REMOVE MARGINS AS ALL GO FULL WIDTH AT 480 PIXELS */
+
 
 @media only screen and (max-width: 480px) {
 	.col { 
@@ -43,7 +43,7 @@
 }
 
 
-/*  GRID OF TWO   ============================================================================= */
+
 
 
 .span-2-of-2 {
@@ -66,7 +66,7 @@
 }
 
 
-/*  GRID OF THREE   ============================================================================= */
+
 
 	
 .span-3-of-3 {
@@ -82,7 +82,7 @@
 }
 
 
-/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
 
 @media only screen and (max-width: 480px) {
 	.span-3-of-3 {
